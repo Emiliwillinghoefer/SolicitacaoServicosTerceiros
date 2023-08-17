@@ -1,0 +1,15 @@
+{
+    "name": "emiliwillinghoefer/solicitacao-servicos-terceiros",
+    "autoload": {
+        "psr-4": {
+            "Emiliwillinghoefer\\SolicitacaoServicosTerceiros\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "emiliwillinghoefer",
+            "email": "emili.w@unochapeco.edu.br"
+        }
+    ],
+    "require": {}
+}
